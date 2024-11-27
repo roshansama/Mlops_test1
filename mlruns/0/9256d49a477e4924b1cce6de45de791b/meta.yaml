@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/MLOps/mlruns/0/9256d49a477e4924b1cce6de45de791b/artifacts
+end_time: 1732750515760
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9256d49a477e4924b1cce6de45de791b
+run_name: unruly-wolf-255
+run_uuid: 9256d49a477e4924b1cce6de45de791b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732750508243
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/MLOps/mlruns/0/f0f64418e47342ad9a6556db448e7e11/artifacts
+end_time: 1732743524187
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0f64418e47342ad9a6556db448e7e11
+run_name: gregarious-lark-367
+run_uuid: f0f64418e47342ad9a6556db448e7e11
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732743514716
+status: 3
+tags: []
+user_id: lenovo

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/lenovo/MLOps/mlruns/0/2afb61718d024791b6930ad3f29d66a2/artifacts
+end_time: 1732745198959
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2afb61718d024791b6930ad3f29d66a2
+run_name: nebulous-shoat-404
+run_uuid: 2afb61718d024791b6930ad3f29d66a2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1732745195157
+status: 3
+tags: []
+user_id: lenovo
